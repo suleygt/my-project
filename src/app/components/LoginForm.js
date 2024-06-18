@@ -6,7 +6,7 @@ import styles from "@/styles/page.module.css"
 const LoginForm = () => {
   return (
     <div className={styles.container}>
-       <div className={styles.diagonalBackground}></div>
+
       <div className={styles.formContainer}>
       <h1 className={styles.loginTitle}>Login</h1>
       <div className={styles.inputContainer}>
