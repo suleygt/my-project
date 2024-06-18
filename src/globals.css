@@ -1,0 +1,76 @@
+.username-container {
+  position: relative;
+  margin-bottom: 20px;
+}
+
+.username-input {
+  width: 330px;
+  height: 50px;
+  border: 1px solid rgba(0, 0, 0, 0.31);
+  padding: 10px;
+}
+
+.username-label {
+  position: absolute;
+  top: 50%;
+  left: 10px;
+  transform: translateY(-50%);
+  font-family: Montserrat, sans-serif;
+  font-weight: 600;
+}
+
+/* Password için textpart */
+.password-container {
+  position: relative;
+  margin-bottom: 20px;
+}
+
+.password-input {
+  width: 330px;
+  height: 50px;
+  border: 1px solid rgba(0, 0, 0, 0.31);
+  padding: 10px;
+}
+
+.password-label {
+  position: absolute;
+  top: 50%;
+  left: 10px;
+  transform: translateY(-50%);
+  font-family: Montserrat, sans-serif;
+  font-weight: 600;
+}
+
+/* Login button için textpart */
+.login-button {
+  width: 200px;
+  height: 50px;
+  border: none;
+  background-color: #007bff;
+  color: #fff;
+  font-family: Montserrat, sans-serif;
+  font-weight: 600;
+  font-size: 20px;
+  line-height: 24px;
+  cursor: pointer;
+  margin-bottom: 20px;
+}
+
+/* Forgot password için textpart */
+.forgot-password {
+  font-family: Montserrat, sans-serif;
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 20px;
+  color: #000;
+  margin-right: 20px;
+}
+
+/* Register için textpart */
+.register {
+  font-family: Montserrat, sans-serif;
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 20px;
+  color: #000;
+}
